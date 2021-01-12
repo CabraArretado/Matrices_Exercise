@@ -35,7 +35,7 @@ namespace Matrices_Exercise
             Console.WriteLine();
 
 
-            // Display how much negative numbers were used in the matrix
+            // Display how many negative numbers were used in the matrix
             var lista = new List<int>();
             for(int i = 0; i < size; i++)
             {
